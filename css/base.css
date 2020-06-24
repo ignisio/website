@@ -86,7 +86,6 @@ main {
 	width: 100%;
 	margin: 0 auto;
 	padding: 0 0 5vh;
-	flex-wrap: wrap;
 	position: relative;
 	align-items: center;
 	justify-content: space-between;
